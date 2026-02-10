@@ -1,5 +1,12 @@
 # 💫 About Me:
-👋 Hi, I’m Sam Taylor-King<br>I’m a 2nd-year MSc Computer Science student at the University of Exeter, with a strong interest in data, machine learning, and building practical, well-designed software. I enjoy working at the intersection of theory and real-world application — taking concepts from coursework and online certifications and turning them into working projects.<br>Alongside my academic studies, I’ve completed industry-recognised courses in machine learning and exploratory data analysis from Google and IBM, strengthening my foundations in data cleaning, modelling, and analytical thinking. I’m particularly interested in how intelligent systems are designed responsibly and how data-driven tools can be applied effectively in real environments.<br>Outside of tech, I bring strong leadership, teamwork, and decision-making skills from my experience as an RNLI Beach Lifeguard and Assistant Coach, where working under pressure and taking responsibility are part of everyday life. These experiences shape how I approach software development — with clarity, accountability, and a focus on reliability.<br>This GitHub showcases my learning journey, projects, and experimentation as I continue to grow as a developer and problem-solver.
+👋 Hi, I’m Sam Taylor-King
+
+I’m a 2nd-year MSc Computer Science student at the University of Exeter, with a strong interest in data, machine learning, and building practical, well-designed software. I enjoy working at the intersection of theory and real-world application — taking concepts from coursework and online certifications and turning them into working projects.
+Alongside my academic studies, I’ve completed industry-recognised courses in machine learning and exploratory data analysis from Google and IBM, strengthening my foundations in data cleaning, modelling, and analytical thinking. I’m particularly interested in how intelligent systems are designed responsibly and how data-driven tools can be applied effectively in real environments.
+
+Outside of tech, I bring strong leadership, teamwork, and decision-making skills from my experience as an RNLI Beach Lifeguard where working under pressure and taking responsibility are part of everyday life. These experiences shape how I approach software development — with clarity, accountability, and a focus on reliability.
+
+This GitHub showcases my learning journey, projects, and experimentation as I continue to grow as a developer and problem-solver.
 
 
 ## 🌐 Socials:
